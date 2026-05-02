@@ -77,4 +77,4 @@ Built for aesthetic and dental clinics in the Spanish-speaking market. Bonnie re
 
 ---
 
-Built by [Thainá Souza](https://github.com/1thai8) · AutoScale AI
+Built by [Thainá Souza](https://github.com/1thai8) · Myelon AI
