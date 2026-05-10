@@ -2,7 +2,7 @@
 
 > Conversational AI agent that handles appointment booking, availability checking, and cancellations via WhatsApp — fully automated, 24/7.
 
-🌐 **Live demo:** [auto-scaleai-six.vercel.app](https://auto-scaleai-six.vercel.app)
+🌐 **Live demo:** [auto-scaleai-six.vercel.app]myelon-ai.vercel.app)
 
 ---
 
@@ -10,7 +10,7 @@
 
 **English**
 
-https://github.com/1thai8/bonnie-landing/assets/Demo-EN.mp4
+
 
 **Español**
 
