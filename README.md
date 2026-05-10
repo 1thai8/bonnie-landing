@@ -6,16 +6,9 @@
 
 ---
 
-## 📹 Demo
+## 🎬 Demo
 
-**English**
-
-
-
-**Español**
-
-https://github.com/1thai8/bonnie-landing/assets/Demo-ES.mp4
-
+[▶ Watch Bonnie in action](https://drive.google.com/file/d/1afrxWIYF_DZQlu_N0IMNc0C1NtFt8ZOV/view?usp=sharing)
 ---
 
 ## 💡 What Bonnie does
